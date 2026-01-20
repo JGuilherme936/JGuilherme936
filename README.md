@@ -15,6 +15,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="N8N" height="30" width="40" src="https://cdn.simpleicons.org/n8n/FF655A">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 <br>
@@ -47,7 +48,7 @@
 
 <div align="center">
  <i>"Building robust systems & exploring Cloud solutions."</i><br>
- <a href="https://www.linkedin.com/in/joão-guilherme-azevedo-barros-11382822b/" target="_blank">
+ <a href="https://www.linkedin.com/in/joao-guilherme-barros" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
  </a>
 </div>
