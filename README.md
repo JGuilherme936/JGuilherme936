@@ -27,15 +27,15 @@
 
 ---
 
-### 🚀 Featured Projects (Destaques)
+### 🚀 Featured Projects
 
-| Projeto | Tech Stack | Descrição Rápida |
+| Project | Tech Stack | Quick Description |
 | :--- | :--- | :--- |
-| **🏆 [FinançaPro AI Agent](https://github.com/JGuilherme936/FinancaPro-n8n-Agent)** | `n8n` `OpenAI` `OCR` | **3º Lugar Hackathon Academ.IA.** Agente de IA para análise financeira e fluxo de caixa de PMEs. |
-| **🛡️ [ForumHub API](https://github.com/JGuilherme936/Desafio-ONE---ForumHub)** | `Java` `Spring Security` `JWT` | API RESTful robusta com autenticação por token e controle de acesso. |
-| **📚 [LiterAlura](https://github.com/JGuilherme936/Desafio-ONE---Literalura)** | `Java` `Spring Data` `Postgres` | Catálogo de livros com persistência de dados e consumo de API externa. |
-| **💱 [Conversor de Moedas](https://github.com/JGuilherme936/Desafio-ONE---Conversor-de-Moedas)** | `Java` `API Rest` | Ferramenta de conversão de moedas em tempo real. |
-| **🎁 [Amigo Secreto](https://github.com/JGuilherme936/Desafio-ONE---Amigo-Secreto)** | `JavaScript` `Logic` | Lógica de sorteio e manipulação de DOM (Desafio Inicial ONE). |
+| **🏆 [FinançaPro AI Agent](https://github.com/JGuilherme936/FinancaPro-n8n-Agent)** | `n8n` `OpenAI` `OCR` | **3rd Place at Academ.IA Hackathon.** AI Agent for financial analysis and SME cash flow management. |
+| **🛡️ [ForumHub API](https://github.com/JGuilherme936/Desafio-ONE---ForumHub)** | `Java` `Spring Security` `JWT` | Robust RESTful API with token authentication and access control. |
+| **📚 [LiterAlura](https://github.com/JGuilherme936/Desafio-ONE---Literalura)** | `Java` `Spring Data` `Postgres` | Book catalog with data persistence and external API consumption. |
+| **💱 [Currency Converter](https://github.com/JGuilherme936/Desafio-ONE---Conversor-de-Moedas)** | `Java` `API Rest` | Real-time currency conversion tool. |
+| **🎁 [Secret Santa](https://github.com/JGuilherme936/Desafio-ONE---Amigo-Secreto)** | `JavaScript` `Logic` | Draw logic and DOM manipulation (ONE Initial Challenge). |
 
 ---
 
