@@ -1,6 +1,10 @@
-### Hi there, I'm João Guilherme! 👋
-
 <div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Jo%C3%A3o+Guilherme!+%F0%9F%91%8B;Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Guilherme!+%F0%9F%91%8B;%C2%A1Hola%2C+soy+Jo%C3%A3o+Guilherme!+%F0%9F%91%8B" alt="Typing Effect" />
+</a>
+
+<br>
 
 🎓 CompEng Student @ditceuma | 🚀 Backend Dev (Java/Spring) & SaaS Builder | 🤖 Linux & AI Enthusiast  
 🧡 #AlumniONE | 🇧🇷 | 🇺🇸 | 🇪🇸
@@ -15,7 +19,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="N8N" height="30" width="40" src="https://cdn.simpleicons.org/n8n/FF655A">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 <br>
