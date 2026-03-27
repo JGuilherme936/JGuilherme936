@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/JGuilherme936">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jguilherme936&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguilherme936&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/jguilherme936">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jguilherme936&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jguilherme936&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
